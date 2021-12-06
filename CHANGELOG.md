@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/JonDotsoy/generators-utils/compare/v1.1.0...v1.2.0) (2021-12-06)
+
+
+### Features
+
+* configure publish options ([c4eb04d](https://github.com/JonDotsoy/generators-utils/commit/c4eb04d954774da0d6825e0bfaa0f024d60c95b5))
+
 ## 1.1.0 (2021-12-06)
 
 
