@@ -1,0 +1,8 @@
+.github/
+__snapshots__
+jest.config.js
+*.tgz
+*.ts
+!*.d.ts
+tsconfig.json
+*.spec.*
