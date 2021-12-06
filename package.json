@@ -8,7 +8,7 @@
     "version": "standard-version"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jonathan Delgado <hi@jon.soy> (https://jon.soy)",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^27.0.3",
