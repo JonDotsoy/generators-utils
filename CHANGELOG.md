@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/JonDotsoy/generators-utils/compare/v1.2.0...v1.3.0) (2021-12-06)
+
+
+### Features
+
+* added npmignore file to whitelist ([dac56bf](https://github.com/JonDotsoy/generators-utils/commit/dac56bfe53b8e961ffa9fd0f260dda7cb790e095))
+
 ## [1.2.0](https://github.com/JonDotsoy/generators-utils/compare/v1.1.0...v1.2.0) (2021-12-06)
 
 
